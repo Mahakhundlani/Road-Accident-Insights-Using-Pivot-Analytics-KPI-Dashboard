@@ -1,0 +1,2 @@
+# Road-Accident-Insights-Using-Pivot-Analytics-KPI-Dashboard
+A complete Excel-based Business Intelligence Dashboard built to analyze road accident patterns, severity, and risk factors using detailed accident records. This project transforms raw data into actionable insights that can help traffic authorities, researchers, and data analysts understand the causes behind accidents and plan safety interventions.
